@@ -4,7 +4,7 @@ This programs completes the threeway handshake to ports but they closes the conn
 This is not a really good way to scan has most computers tend to log or keep track of these things. 
 
 
-gcc -g tcpconnectscannere
+gcc -g connectscanner.c
 
 
 
